@@ -1,8 +1,42 @@
-# React + Vite
+# 🦄 Unicorn Commander Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Preview](preview.jpg)
 
-Currently, two official plugins are available:
+A cutting-edge interface for managing AI-powered tools and services, featuring:
+- ✨ Modern glassmorphism design
+- 🌈 Dynamic gradient backgrounds
+- 🔍 Integrated search interfaces
+- 🃏 Interactive application cards
+- 🚀 Coming soon features section
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Installation
+```bash
+git clone https://github.com/your-username/unicorn-commander-dashboard.git
+cd unicorn-commander-dashboard
+npm install
+```
+
+## 🚀 Usage
+```bash
+npm run dev
+```
+Open http://localhost:5173 in your browser
+
+## 🌈 Features
+- **Responsive Design**: Works on all screen sizes
+- **Modern UI**: Glassmorphism effects with Tailwind CSS
+- **Dynamic Gradients**: Each card has unique color scheme
+- **Interactive Elements**: Hover effects and smooth transitions
+
+## 🧰 Tech Stack
+- ⚛️ React 18
+- 🎨 Tailwind CSS
+- ⚡ Vite
+- ✨ Lucide Icons
+
+## 📄 License
+MIT License - see [LICENSE](LICENSE) for details
+
+## 🙏 Acknowledgments
+- [Lucide](https://lucide.dev/) for beautiful icons
+- Tailwind Labs for amazing utility-first CSS framework
